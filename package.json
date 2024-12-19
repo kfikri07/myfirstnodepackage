@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "upper-case": "^2.0.2"
+  },
+  "devDependencies": {
+    "noodlesnodepackage": "file:",
+    "typescript": "^5.7.2"
+  },
+  "name": "noodlesnodepackage",
+  "version": "1.0.1",
+  "description": "my fist node package",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcommand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kfikri07/myfirstnodepackage.git"
+  },
+  "keywords": [
+    "noooodellzss"
+  ],
+  "author": "karimtheauthor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kfikri07/myfirstnodepackage/issues"
+  },
+  "homepage": "https://github.com/kfikri07/myfirstnodepackage#readme"
+}
